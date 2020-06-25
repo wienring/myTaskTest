@@ -1,0 +1,34 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/Flat/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/TestKML/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/TestPyTest/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/bills/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/bloodPressure/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/geoPhotos/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/geoTags/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/hello/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/meds/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/myTaskTest/venv/bin/python" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/oebb/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/pageTree/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/test_gpxpy/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/test_gpxpy/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/test_gpxpy/venv/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
