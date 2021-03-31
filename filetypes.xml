@@ -7,6 +7,7 @@
       <mapping pattern="scanall1" type="PLAIN_TEXT" />
       <mapping pattern="decribe" type="PLAIN_TEXT" />
       <mapping ext="pages" type="PLAIN_TEXT" />
+      <mapping ext="scpt" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="Python" />
       <mapping pattern="junk" type="SVG" />
     </extensionMap>
